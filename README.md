@@ -1,7 +1,7 @@
 # 🔎Spot Me.!!
 
-This is a Fun loving beginner Game specially for childrens to recognise Popular Household objects & try to Memorise It.
-
+This is a Cool & fun Game as beginner for childrens to recognise Popular Household objects & try to Memorise It.
+---
 
 ### Key Points
 - Push childrens to recollect the objects name.
@@ -9,9 +9,9 @@ This is a Fun loving beginner Game specially for childrens to recognise Popular 
 - Show Score.
 
 ### Tool/Libraries
--Turtle Module for GUI
--Pandas to process/fetch data
--Git for Ver-C
+- Turtle Module for GUI
+- Pandas to process/fetch data
+- Git for Ver-C
 
 Clone the repository & try locally.
 ```bash
