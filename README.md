@@ -1,6 +1,6 @@
-# 🔎Spot Me.!!
+# 🔎Spot Me..!!
 
-This is a Cool & fun Game as beginner for childrens to recognise Popular Household objects & try to Memorise It.
+This is a beginner level Cool & fun Game for small childrens to recognise Popular Household objects & try to Memorise It.
 
 ---
 
